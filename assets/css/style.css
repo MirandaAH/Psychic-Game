@@ -1,0 +1,37 @@
+body {
+	background-image: url('../images/background.jpg');
+	height: 800px;
+	color: #19E1AA;
+}
+
+.page-header h1, .page-header h2 {
+	text-align: center;
+}
+.page-header img{
+	margin-left: 330px;
+	height: 200px;
+	width: 650px;
+}
+
+.title {
+	color: #c285f6;
+	font-family: 'Megrim';
+	font-size: 70px;
+}
+.subtitles {
+	color: #19e1aa;
+	font-family: 'Megrim';
+	text-align: center;
+}
+.smalltitles {
+	color: #c285f6;
+	font-family: 'Megrim';
+}
+span {
+	color: #19e1aa;
+}
+.crystal {
+	height: 200px;
+	width: 175px;
+	margin-left: 468px;
+}
